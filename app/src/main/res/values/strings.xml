@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Web View Git</string>
+
+    <string name="msg_sem_conexao">Sem conexão com a internet</string>
+    <string name="tentar_novamente">Tentar Novamente</string>
+    <string name="refresh">refresh</string>
+    <string name="cloud_off">cloud_off</string>
+    <string name="imagemprogress">imagemProgress</string>
+
+</resources>

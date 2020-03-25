@@ -1,0 +1,27 @@
+<resources>
+
+    <!-- Base application com toolbar theme. -->
+    <!--Aplicar na sua atividade no Manifest-->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!-- Base application sem toolbar theme. -->
+    <!--Aplicar na sua atividade no Manifest-->
+    <style name="AppThemeNoActionBar" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!--Se quiser o app com Splash-->
+    <!--Aplicar na sua atividade no Manifest-->
+    <!--<style name="AppTheme.SplashScreen" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowBackground">@drawable/ic_carregamento</item>
+    </style>-->
+
+</resources>

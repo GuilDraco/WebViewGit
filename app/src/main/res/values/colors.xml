@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Escolha as cores do seu App-->
+    <color name="colorPrimary">#8B0000</color>
+    <color name="colorPrimaryDark">#800000</color>
+    <color name="colorAccent">#B22222</color>
+
+    <color name="colorBranco">#FFF</color>
+    <color name="colorPreto">#000</color>
+    <color name="transparente">#00000000</color>
+</resources>
