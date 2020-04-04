@@ -1,8 +1,8 @@
 # WebViewGit
 
-Projeto com uso de webview estendendo verificaçãi de conexão por toda view, com tela preparada de carregamento ao retornar a conexão.
+### Projeto com uso de webview estendendo verificaçãi de conexão por toda view, com tela preparada de carregamento ao retornar a conexão.
 
-[Google](www.google.com.br)
+[Google](https://www.google.com)
 
 * Com ambientes de projetos diferentes. dev, hom, prod.
 * minSdkVersion 24
