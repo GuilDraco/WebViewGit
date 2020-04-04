@@ -10,4 +10,4 @@
 * targetSdkVersion 29
 * AndroidX
 
-![Amostra do Projeto](https://github.com/GuilDraco/WebViewGit/blob/master/Projeto%20webViewGit.gif)
+![Amostra do Projeto](https://github.com/GuilDraco/WebViewGit/blob/master/Projeto%20webViewGit.gif)![Amostra do Projeto](https://github.com/GuilDraco/WebViewGit/blob/master/Projeto%20webViewGit%202.gif)  
