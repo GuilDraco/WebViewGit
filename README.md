@@ -9,3 +9,5 @@
 * minSdkVersion 24
 * targetSdkVersion 29
 * AndroidX
+
+![Amostra do Projeto](https://github.com/GuilDraco/WebViewGit/blob/master/Projeto%20webViewGit.gif)
